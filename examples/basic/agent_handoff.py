@@ -14,7 +14,7 @@ spanish_agent = Agent(
 
 
 def transfer_to_spanish_agent():
-    """Transfer spanish speaking users immediately."""
+    """Transfer Spanish speaking users immediately."""
     return spanish_agent
 
 
